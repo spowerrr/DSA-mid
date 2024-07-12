@@ -1,0 +1,12 @@
+Question :
+You are given a rotated sorted array of integers arr and an integer target.
+
+ A rotated sorted array is an array that was initially sorted in ascending order but then rotated at some pivot unknown to you beforehand.
+
+ Your task is to implement a function find_in_rotated_array in C that searches for the target in the array.
+
+ If the target is found, return the index of its first occurrence.
+ 
+If the target is not found, return -1.
+
+
